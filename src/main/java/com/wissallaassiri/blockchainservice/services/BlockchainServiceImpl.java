@@ -39,7 +39,6 @@ public class BlockchainServiceImpl implements BlockchainService {
         chain.setDifficulty(difficulty);
         chain.setMiningReward(miningReward);
         List<Block> blocks = new ArrayList<>();
-        //ajouter le GenesisBlock
         Block genesisBlock = blockService.saveBlock("0");
         blocks.add(genesisBlock);
 
