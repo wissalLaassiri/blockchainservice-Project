@@ -1,7 +1,7 @@
-package com.wissallaassiri.blockchainservice;
+package com.enset.blockchainservice;
 
-import com.wissallaassiri.blockchainservice.services.BlockService;
-import com.wissallaassiri.blockchainservice.services.BlockchainService;
+import com.enset.blockchainservice.services.BlockService;
+import com.enset.blockchainservice.services.BlockchainService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

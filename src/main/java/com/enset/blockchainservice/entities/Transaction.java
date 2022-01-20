@@ -1,4 +1,4 @@
-package com.wissallaassiri.blockchainservice.entities;
+package com.enset.blockchainservice.entities;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

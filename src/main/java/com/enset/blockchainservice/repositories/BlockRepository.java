@@ -1,6 +1,6 @@
-package com.wissallaassiri.blockchainservice.repositories;
+package com.enset.blockchainservice.repositories;
 
-import com.wissallaassiri.blockchainservice.entities.Block;
+import com.enset.blockchainservice.entities.Block;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface BlockRepository extends JpaRepository<Block, String> {

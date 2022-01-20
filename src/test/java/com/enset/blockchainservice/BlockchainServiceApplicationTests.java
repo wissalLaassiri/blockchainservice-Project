@@ -1,4 +1,4 @@
-package com.wissallaassiri.blockchainservice;
+package com.enset.blockchainservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

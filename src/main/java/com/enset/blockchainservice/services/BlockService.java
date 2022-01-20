@@ -1,6 +1,6 @@
-package com.wissallaassiri.blockchainservice.services;
+package com.enset.blockchainservice.services;
 
-import com.wissallaassiri.blockchainservice.entities.Block;
+import com.enset.blockchainservice.entities.Block;
 
 public interface BlockService {
     Block saveBlock(String prevHash);

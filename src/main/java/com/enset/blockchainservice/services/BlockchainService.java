@@ -1,8 +1,8 @@
-package com.wissallaassiri.blockchainservice.services;
+package com.enset.blockchainservice.services;
 
-import com.wissallaassiri.blockchainservice.entities.Block;
-import com.wissallaassiri.blockchainservice.entities.Blockchain;
-import com.wissallaassiri.blockchainservice.entities.Transaction;
+import com.enset.blockchainservice.entities.Block;
+import com.enset.blockchainservice.entities.Blockchain;
+import com.enset.blockchainservice.entities.Transaction;
 
 public interface BlockchainService {
     Blockchain addNewBlockToBlockchain(int difficulty, int miningReward);

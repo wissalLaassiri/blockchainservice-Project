@@ -1,7 +1,7 @@
-package com.wissallaassiri.blockchainservice.services;
+package com.enset.blockchainservice.services;
 
-import com.wissallaassiri.blockchainservice.entities.Block;
-import com.wissallaassiri.blockchainservice.repositories.BlockRepository;
+import com.enset.blockchainservice.entities.Block;
+import com.enset.blockchainservice.repositories.BlockRepository;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

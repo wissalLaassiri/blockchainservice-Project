@@ -1,6 +1,6 @@
-package com.wissallaassiri.blockchainservice.repositories;
+package com.enset.blockchainservice.repositories;
 
-import com.wissallaassiri.blockchainservice.entities.Transaction;
+import com.enset.blockchainservice.entities.Transaction;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

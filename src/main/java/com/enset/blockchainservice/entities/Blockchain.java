@@ -1,4 +1,4 @@
-package com.wissallaassiri.blockchainservice.entities;
+package com.enset.blockchainservice.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
